@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
 .clear {
   clear:both;
 }
@@ -45,4 +47,21 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'exobold';
+}
+
+h2 {
+  font-family: 'exobold';
+}
+
+.links a {
+  color:black;
+  font-size: 25px;
+  border-bottom: 1px solid #dfdfdf;
+  font-family: 'exobold';
+  font-weight: bold;
+
 }
